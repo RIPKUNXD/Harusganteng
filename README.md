@@ -10,16 +10,16 @@ Script Crack Facebook Versi Free Publik
  $ python -m pip install bs4
  $ python -m pip install rich
  $ python -m pip install pyfiglet
- $ git clone https://github.com/RozhBasXYZ/FBL
- $ cd FBL
+ $ git clone https://github.com/RIPKUNXD/Harusganteng
+ $ cd Harusganteng
  $ git pull
  $ python run.py
  ```
 #### Cara Untuk Update
  ```
   $ cd $HOME
-  $ rm -rf FBL
-  $ git clone https://github.com/RozhBasXYZ/FBL
-  $ cd FBL
+  $ rm -rf Harusganteng
+  $ git clone https://github.com/RIPKUNXD/Harusganteng
+  $ cd Harusganteng
   $ git pull
   $ python run.py
